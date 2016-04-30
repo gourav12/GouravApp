@@ -16,6 +16,7 @@ public class MainActivity extends ActionBarActivity {
         //third by se
         //5 by se
         //6 by se
+        //7 by sec
         setContentView(R.layout.activity_main);
     }
 
