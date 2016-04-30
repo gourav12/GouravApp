@@ -12,6 +12,7 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //first commit
+        //second commit
         setContentView(R.layout.activity_main);
     }
 
